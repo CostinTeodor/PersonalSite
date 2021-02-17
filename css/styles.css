@@ -1,0 +1,138 @@
+/*******************************CLASSES******************************/
+.top-container {
+  background-color: #EAF6F6;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  text-align: center;
+  margin-top: 70px;
+  padding: 40px;
+}
+
+.footer-link {
+  position: relative;
+  margin: auto 30px;
+  text-decoration: none;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 60px;
+  right: 700px;
+}
+
+.bot-cloud {
+  position: absolute;
+}
+
+.skill-row {
+  width:50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 3;
+}
+
+.computer-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.cycle-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.copyright {
+  color: #EAF6F6;
+}
+
+.BUTTON_AMU {
+   background: #11999E;
+   background-image: -webkit-linear-gradient(top, #11999E, #0F696C);
+   background-image: -moz-linear-gradient(top, #11999E, #0F696C);
+   background-image: -ms-linear-gradient(top, #11999E, #0F696C);
+   background-image: -o-linear-gradient(top, #11999E, #0F696C);
+   background-image: -webkit-gradient(to bottom, #11999E, #0F696C);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-size: 16px;
+   font-weight: 100;
+   padding: 5px 10px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_AMU:hover {
+   border: solid #276ED3 0;
+   background: #11999E;
+   background-image: -webkit-linear-gradient(top, #11999E, #3784DB);
+   background-image: -moz-linear-gradient(top, #11999E, #3784DB);
+   background-image: -ms-linear-gradient(top, #11999E, #3784DB);
+   background-image: -o-linear-gradient(top, #11999E, #3784DB);
+   background-image: -webkit-gradient(to bottom, #11999E, #3784DB);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   text-decoration: none;
+}
+
+.poza-profil {
+  border-radius: 100%;
+  margin-top: 40px;
+}
+
+/********************************FUNCTIONS*******************************/
+body {
+  margin: 0;
+  text-align: center;
+  line-height: 2;
+}
+
+h1 {
+  margin: 150px auto 0 auto;
+  display: inline-block;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625em;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: bolder;
+}
+
+h3 {
+  font-family: 'Monsterrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+
+}
+
+p {
+  color: #40514E;
+}
+
+hr {
+
+  width: 2%;
+  border-bottom: none;
+  border-top: 5px dotted grey;
+
+}
